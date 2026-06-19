@@ -8,7 +8,7 @@ body {
     background-color: #485c90;
 }
 
-/*  */
+/* container da calculadora */
 .calculadora{
     background-color: #fff;
     width: 300px;
@@ -99,10 +99,12 @@ button:hover{
     transform: scale(0.96);
 }
 
+/* Ocpação de "zero" */
 .btn-zero{
     grid-column: 1 / 3;
 }
 
+/* Ocupação de "igualdade" */
 .btn-resultado{
     grid-row: 4 / 6;
     height: 100%;
