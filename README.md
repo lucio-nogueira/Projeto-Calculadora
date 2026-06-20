@@ -1,6 +1,6 @@
 # Projeto-Calculadora
 
-Uma aplicação simples feita para praticar desenvolvimento Web, programando e utilizando os meus conhecimentos das linguagens de programação. HTML, CSS, JavaScript.
+Uma calculadora simples desenvolvida para praticar lógica de programação, manipulação do DOM e eventos com JavaScript.
 
 ## Link da aplicação
 
@@ -14,15 +14,30 @@ Acesse aqui: https://projet-calculadora.netlify.app/
 
 ## Funcionalidades
 
-- Inserir valores
-- Calcular valores
-- Exibir resultados
+- Operações básicas (+, -, ×, ÷)
+- Limpar visor
+- Apagar último número
+- Interface responsiva
+- Cálculos em tempo real
+
+## Estrutura do projeto
+
+```
+calculator/
+
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+```
 
 ## Aprendizados
 
-- Visual Responsivo e intuitivo
-- Funções aplicadas a valores
-- Criar orientações aos objetos na tela
+- Manipulação do DOM
+- Eventos com JavaScript
+- Operações matemáticas
+- Organização de código
+- Estruturação de interface
 
 
 ## Preview do Projeto
